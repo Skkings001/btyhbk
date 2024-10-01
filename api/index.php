@@ -2,7 +2,7 @@
 
 $url = 'https://babel-in.xyz/tata/channels';
 $data = [
-    'X-API-Key' => 'babel-xxxxxx',
+    'X-API-Key' => 'babel-40b84ca520bd0fe134cc01fc80',
 ];
 $jsonData = json_encode($data);
 
